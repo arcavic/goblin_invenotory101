@@ -1,3 +1,9 @@
+* {
+  font-family: "Indie Flower", cursive;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+}
+
 .img {
   width: fit-content;
   margin: 16px auto;
